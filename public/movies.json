@@ -1,31 +1,31 @@
 
 [
     {
-        "name": "Hotel Translyvania",
+        "movieTitle": "Hotel Translyvania",
         "date": "September 28, 2012",
         "actors": ["Adam Sandler", "Andy Samberg", "Selena Gomez", "Kevin James"],
         "ratings": 7.1,
-        "poster": "hotel-transylvania.jpg"
+        "poster": "./static/hotel-transylvania.jpg"
     },
     {
-        "name": "Up",
+        "movieTitle": "Up",
         "date": "May 29, 2009",
         "actors": ["Edward Asner", "Christopher Plummer", "Jordan Nagai", "Bob Peterson"],
         "ratings": 8.2,
-        "poster": "up.jpg"
+        "poster": "./static/up.jpg"
     },
     {
-        "name": "Scooby-Doo",
+        "movieTitle": "Scooby-Doo",
         "date": "June 14, 2002",
         "actors": ["Freddie Prince Jr.", "Sarah Michelle Geller", "Matthew Lillard", "Linda Cardellini"],
         "ratings": 5.1,
-        "poster": "scooby-doo.jpg"
+        "poster": "./static/scooby-doo.jpg"
     },
     {
-        "name": "Austin Powers",
+        "movieTitle": "Austin Powers",
         "date": "May 2, 1997",
         "actors": ["Mike Myers", "Elizabeth Hurley", "Michael York", "Mimi Rogers"],
         "ratings": 7.0,
-        "poster": "austin-powers.jpg"
+        "poster": "./static/austin-powers.jpg"
     }
 ]
